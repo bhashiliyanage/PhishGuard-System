@@ -252,19 +252,5 @@ Please use the GitHub Issues tracker to report bugs or suggest features. Include
 - Expected vs actual behavior
 - Screenshots or logs if relevant
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- **Project Maintainer**: [Your Name/Team]
-- **Institution**: NSBM Green University
-- **Email**: phishguard@nsbm.ac.lk
-- **Website**: https://phishguard.nsbm.ac.lk
-
----
-
-**PhishGuard System** - Empowering organizations to defend against phishing attacks through education and simulation.
 
 *Last updated: May 2026*
